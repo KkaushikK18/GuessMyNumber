@@ -65,6 +65,7 @@ h1 {
   bottom: 0;
   left: 50%;
   transform: translate(-50%, 50%);
+  margin-top: 80px;
 }
 
 .between {
@@ -93,6 +94,7 @@ h1 {
   display: block;
   margin-bottom: 3rem;
   margin-top: 100px;
+  margin-bottom: 30px;
 }
 
 .btn {
