@@ -158,3 +158,4 @@ document.querySelector('.again').addEventListener('click', function () {
   setNumberStyle('15rem', '#6a11cb');
   document.querySelector('.message').classList.remove('correct');
 });
+
